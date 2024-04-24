@@ -1,0 +1,13 @@
+filename = 'OmegaChips 2.0.1 [FORGE] 1.18.2.jar'
+name = 'Omega-Chips'
+side = 'both'
+
+[download]
+hash = '222014c25935cad23c66d6e71f63f3a73cb73d5873f5d9a9ea9532ddc9505ea821cf5db52213cb37d2cca409fd9e820731ea0ae8bb833a48ecac43c27c73e67c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/edonoo6R/versions/fVk0HBc3/OmegaChips 2.0.1 %5BFORGE%5D 1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'edonoo6R'
+version = 'fVk0HBc3'

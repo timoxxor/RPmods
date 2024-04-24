@@ -1,0 +1,13 @@
+filename = 'lmft-1.0.2+1.18.2-forge.jar'
+name = 'Load My F***ing Tags'
+side = 'server'
+
+[download]
+hash = '8e5548985789454b66e5dfee310c6e42ffdb021bc3462b33e0bc59d4d476c61414141d0e71663c193afe9411047cbfddbd39e1fd2d8ab9574069bbca30d2fb21'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/67kVxsaO/versions/uNo4PuMq/lmft-1.0.2%2B1.18.2-forge.jar'
+
+[update.modrinth]
+mod-id = '67kVxsaO'
+version = 'uNo4PuMq'

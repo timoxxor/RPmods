@@ -1,0 +1,13 @@
+filename = 'unoriginal-datapack.jar'
+name = 'Unoriginal'
+side = 'server'
+
+[download]
+hash = 'ab232fc82710d22a945eaea283769fb1da8fd9f11f83c49d24ea484ba5077e047f6f8a6ce48815697bdc273f5eec11ae318729559beeb5a31b01e265e175a06f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Pp78cYOP/versions/HEKeeBfQ/unoriginal-datapack.jar'
+
+[update.modrinth]
+mod-id = 'Pp78cYOP'
+version = 'HEKeeBfQ'

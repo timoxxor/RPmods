@@ -1,0 +1,13 @@
+filename = 'WWOO-FORGE-2.6.4.jar'
+name = "William Wythers' Expanded Ecosphere"
+side = 'both'
+
+[download]
+hash = '3b70a9bd8c38993cb85079b1d2b5ac4cf1341f95'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4509749
+project-id = 490686

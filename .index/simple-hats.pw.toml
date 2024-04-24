@@ -1,0 +1,13 @@
+filename = 'simplehats-forge-1.18.2-0.2.3.jar'
+name = 'Simple Hats'
+side = 'both'
+
+[download]
+hash = '7cf33cc10a8b78228ffe0e5796761b16389ae828c3d4d1803fb14e4a8a864c153c9150bb3e484de4de225e2f79b7c8fd3265fc8e0619892429ebd39ea6f90233'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iSkQCp6b/versions/mIEVqeDV/simplehats-forge-1.18.2-0.2.3.jar'
+
+[update.modrinth]
+mod-id = 'iSkQCp6b'
+version = 'mIEVqeDV'

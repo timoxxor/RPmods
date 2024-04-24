@@ -1,0 +1,13 @@
+filename = 'antiqueatlas-7.1.1-forge-mc1.18.2.jar'
+name = 'Antique Atlas'
+side = 'both'
+
+[download]
+hash = 'ab3e335ae6c51c28be3a9f7b645f33114f5a26d9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4466171
+project-id = 227795

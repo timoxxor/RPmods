@@ -1,0 +1,13 @@
+filename = 'create_misc_and_things_ 1.18.2_4.0A.jar'
+name = 'Create: Misc and Things'
+side = 'both'
+
+[download]
+hash = '98498cc2fcac71bdef9d83bfc927594a0cbf69eac39bf6ca1e4731167889d6cc827b21244a6845c1d32c85e42f5b94ff2a03b09b07a0fb078ea7a0e68418252a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uWrs8XlB/versions/w7jCGuH2/create_misc_and_things_ 1.18.2_4.0A.jar'
+
+[update.modrinth]
+mod-id = 'uWrs8XlB'
+version = 'w7jCGuH2'

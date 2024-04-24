@@ -1,0 +1,13 @@
+filename = 'walkietalkie-forge-1.18.2-1.3.0.jar'
+name = 'Walkie-Talkie'
+side = 'both'
+
+[download]
+hash = '9bc13eaba84c6045bbb072ca2b857aee2dc57541'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5133433
+project-id = 825621

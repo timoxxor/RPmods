@@ -1,0 +1,13 @@
+filename = 'oculusparticlefix-1.0.jar'
+name = 'Oculus Particle Fix'
+side = 'client'
+
+[download]
+hash = '96b53a3aee12c853ea1d67e9d2db22b98ac467159722305ff8e03d80b14d98b965bc66ec31457ec622b2401334b255994bb0f450ae2bd71d12703f345aa67284'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OLnTZMb7/versions/TJQjGwos/oculusparticlefix-1.0.jar'
+
+[update.modrinth]
+mod-id = 'OLnTZMb7'
+version = 'TJQjGwos'

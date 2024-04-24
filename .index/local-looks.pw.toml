@@ -1,0 +1,13 @@
+filename = 'locallooks-1.2.1-1.18.2.jar'
+name = 'Local Looks'
+side = 'both'
+
+[download]
+hash = 'b6c3bd1d6173792e58fea2c179a6a12c2fd8ee09c2efe33ca407432c97ade5f50962abae371951724efe6657a95543cd0c2fcb9a03b85e76a992b84654cb3be1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QYMWGqdh/versions/jFhMjnYj/locallooks-1.2.1-1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'QYMWGqdh'
+version = 'jFhMjnYj'

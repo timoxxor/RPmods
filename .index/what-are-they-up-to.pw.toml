@@ -1,0 +1,13 @@
+filename = 'watut-forge-1.18.2-1.0.14.jar'
+name = 'What Are They Up To (Watut)'
+side = 'both'
+
+[download]
+hash = '217c5220ea63a2f97c80902e7d2d6ca5cb15ea4c8d132c5ba716db07a980c6149cc60803e2bf1e9f9a66892a2072610b3e998148ecaacd4b2943296fa92c6c93'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AtB5mHky/versions/6HslThOA/watut-forge-1.18.2-1.0.14.jar'
+
+[update.modrinth]
+mod-id = 'AtB5mHky'
+version = '6HslThOA'

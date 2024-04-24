@@ -1,0 +1,13 @@
+filename = 'YungsBridges-1.18.2-Forge-2.1.0.jar'
+name = "YUNG's Bridges (Forge)"
+side = 'both'
+
+[download]
+hash = 'c3a4dca025adead5b297a403cc3b03e71d8e739b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3777944
+project-id = 536660

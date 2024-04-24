@@ -1,0 +1,13 @@
+filename = 'irons_spellbooks-1.18.2-1.1.4.4.jar'
+name = "Iron's Spells 'n Spellbooks"
+side = 'both'
+
+[download]
+hash = 'ae191a3270585fd0089211c3476d32cfae229204'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5172939
+project-id = 855414

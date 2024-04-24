@@ -1,0 +1,13 @@
+filename = 'Dice-1.18.2-1.0.0.jar'
+name = 'Dice'
+side = 'both'
+
+[download]
+hash = 'f1415795e6c5d7e5f3cdcdb7dd13f2b0a0f4b15bfc6645c1daff45d40ce4bab89ba1e57caf067deeaab5e1b02bdf3902e61bdaa74c5c2a6164a7d3788f5e6b24'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YaTcrHqS/versions/NhleuN75/Dice-1.18.2-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'YaTcrHqS'
+version = 'NhleuN75'

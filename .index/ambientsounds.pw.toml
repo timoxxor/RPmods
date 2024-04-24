@@ -1,0 +1,13 @@
+filename = 'AmbientSounds_FORGE_v5.0.16_mc1.18.2.jar'
+name = 'AmbientSounds'
+side = 'client'
+
+[download]
+hash = '485bcfa7a6bf29f4f466f60dafa84b4ead6797789d4df4032ee76d0ffb61f9b778c303cbff3becfcb131323e85eaf3968b22d575c7d3e3376433a2fb6ee78dc3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fM515JnW/versions/lleFsB3J/AmbientSounds_FORGE_v5.0.16_mc1.18.2.jar'
+
+[update.modrinth]
+mod-id = 'fM515JnW'
+version = 'lleFsB3J'

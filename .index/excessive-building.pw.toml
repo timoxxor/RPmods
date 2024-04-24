@@ -1,0 +1,13 @@
+filename = 'excessive_building-FORGE-1.18.2-1.5.0.jar'
+name = 'Excessive Building'
+side = 'both'
+
+[download]
+hash = 'e97fc15200771cf9c0d1c64710caccccbfc6182923df069ce31bd025280b6c6b5d1d0a39c39b4364c5f6c2af524acd292a9f9f00b6450e09ff9a6f6c56bdb714'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2vsx0HYf/versions/mtJHSk76/excessive_building-FORGE-1.18.2-1.5.0.jar'
+
+[update.modrinth]
+mod-id = '2vsx0HYf'
+version = 'mtJHSk76'

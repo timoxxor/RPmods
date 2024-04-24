@@ -1,0 +1,13 @@
+filename = 'collective-1.18.2-7.7.jar'
+name = 'Collective'
+side = 'both'
+
+[download]
+hash = '61e57a7d50abd86892778e9373c1a5812a2fe604062804c40ef0e64f90809ccb316fd1f7159619cbe19830b66af8d156e8a7044e352b90ac874da6eff75da883'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/e0M1UDsY/versions/sITn4lge/collective-1.18.2-7.7.jar'
+
+[update.modrinth]
+mod-id = 'e0M1UDsY'
+version = 'sITn4lge'

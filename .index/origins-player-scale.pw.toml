@@ -1,0 +1,13 @@
+filename = 'origins-player-scale-2.jar'
+name = 'Origins: Player Scale'
+side = 'server'
+
+[download]
+hash = '77c4543b4dbd0ddad03e7df9109f2e296f91bf1a09528393df7827c84a82188f2086d62332af9683fb9242b93ef31a1ea5139d1c0cec7e8a1c356c89d0326ea6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9JpuntRB/versions/fRSr239O/origins-player-scale-2.jar'
+
+[update.modrinth]
+mod-id = '9JpuntRB'
+version = 'fRSr239O'

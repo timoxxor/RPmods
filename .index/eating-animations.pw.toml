@@ -1,0 +1,13 @@
+filename = 'eatinganimation-1.18.2-2.1.1.jar'
+name = 'Eating Animations'
+side = 'client'
+
+[download]
+hash = '2daaeaca755280f0d81a0034d823b9ddbe1c9ded58fcfd11a2bb5c1ff48833c82ea7ffd49925b665d8d13fb87ad6775ce6bc048bf9dd581ededeb165113f5d14'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/X8CISwXp/versions/2.1.1/eatinganimation-1.18.2-2.1.1.jar'
+
+[update.modrinth]
+mod-id = 'X8CISwXp'
+version = 'm3FZaUAH'

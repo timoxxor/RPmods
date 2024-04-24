@@ -1,0 +1,13 @@
+filename = 'handoveryouritems-1.18.2-3.1.jar'
+name = 'Hand Over Your Items'
+side = 'both'
+
+[download]
+hash = '7fc9499651da9ca8fa9f722a7053ea00b497c2233dd119c25e48aa7953446fdd32bbfb21d55f7f1d1579a77b1df9b4326024ac14a18e6079449270e0889924db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z9RMqaGu/versions/FpIUilCH/handoveryouritems-1.18.2-3.1.jar'
+
+[update.modrinth]
+mod-id = 'Z9RMqaGu'
+version = 'FpIUilCH'

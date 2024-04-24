@@ -1,0 +1,13 @@
+filename = 'PassableFoliage-1.18.2-forge-4.3.0.jar'
+name = 'Passable Foliage 🌳 (Forge)'
+side = 'both'
+
+[download]
+hash = 'a9715f0c7fe4e6365992c35967dbf491e558f9f2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4844788
+project-id = 379887
